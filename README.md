@@ -18,4 +18,5 @@ To showcase the capabilities of the Gemini 1.5 Pro API in creating engaging and 
 To develop a chatbot that can serve as a valuable resource for users seeking information and assistance.
 To contribute to the advancement of conversational AI technology through innovative application of the Gemini API.
 
-![images](https://github.com/user-attachments/assets/54490f57-dcb6-4c1d-b0c7-153965604863)
+![images](https://github.com/user-attachments/assets/3043767b-25f7-48ee-8f4b-023fee77ad52)
+
